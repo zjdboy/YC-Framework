@@ -1,5 +1,5 @@
 {
-    "name": "vendor/yc-framework",
+    "name": "zjdboy/yc-framework",
     "description": "yc-framework",
     "license": "MIT",
     "keywords": ["YC-Framework"],
@@ -16,7 +16,7 @@
  
     "autoload": {
         "psr-0": {
-            "vendor\\YC-Framework\\YC.php": "src/"
+            "zjdboy\\YC-Framework\\YC.php": "src/"
         }
     }
 }
